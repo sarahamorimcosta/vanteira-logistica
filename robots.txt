@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sarahamorimcosta.github.io/vanteira-logistica/sitemap.xml
